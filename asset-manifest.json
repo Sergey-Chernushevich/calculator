@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/https//Sergey-Chernushevich.github.io/calculator/static/css/main.6d887bf7.css",
+    "main.js": "/https//Sergey-Chernushevich.github.io/calculator/static/js/main.b1a16696.js",
+    "static/js/787.a56d0904.chunk.js": "/https//Sergey-Chernushevich.github.io/calculator/static/js/787.a56d0904.chunk.js",
+    "index.html": "/https//Sergey-Chernushevich.github.io/calculator/index.html",
+    "main.6d887bf7.css.map": "/https//Sergey-Chernushevich.github.io/calculator/static/css/main.6d887bf7.css.map",
+    "main.b1a16696.js.map": "/https//Sergey-Chernushevich.github.io/calculator/static/js/main.b1a16696.js.map",
+    "787.a56d0904.chunk.js.map": "/https//Sergey-Chernushevich.github.io/calculator/static/js/787.a56d0904.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d887bf7.css",
+    "static/js/main.b1a16696.js"
+  ]
+}
