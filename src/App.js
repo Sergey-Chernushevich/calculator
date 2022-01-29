@@ -68,7 +68,7 @@ function reducer(state, { type, payload }) {
       };
 
     case ACTIONS.CLEAR:
-      return {};
+      return { ...state, currentOperand: null };
     case ACTIONS.EVALUATE:
       if (
         state.operation === null ||
